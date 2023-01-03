@@ -120,6 +120,9 @@ input[type="checkbox"]{
 .fa-circle-xmark{
     float: right;
 }
+input[type="text"]{
+    width:440px;
+}
 .add2{
 background-color:#00A5EC;
 width:100px;
@@ -151,17 +154,18 @@ color:white;
 }
 .back{
     font-size:20px;
+    color:black;
 }
 .fa-circle-plus{
     font-size:50px;
 }
 .add_icon3{
-    width:max-content;
-  position:relative;
-  left:800px;
-  top:-30px;
-  display:flex;
-  align-items:center; 
+    width: max-content;
+    position: relative;
+    left: 883px;
+    top: -30px;
+    display: flex;
+    align-items: center;
 }
 .child3{
     margin:50px 20px 30px 20px;
@@ -307,7 +311,7 @@ color:white;
         left: 230px;
      }
      input[type="text"]{
-         width: 320px;
+         width: 318px;
      }
      .child3{
             /* margin: 50px 20px 30px 20px; */
